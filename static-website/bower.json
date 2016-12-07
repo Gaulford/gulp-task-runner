@@ -1,0 +1,16 @@
+{
+  "name": "Landing_JS_Libraries_Management",
+  "version": "1.0.0",
+  "authors": [
+    "Gaulford <william.ma.ro@gmail.com>"
+  ],
+  "description": "Libraries management for landing Pages",
+  "main": "main",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "private": true
+}

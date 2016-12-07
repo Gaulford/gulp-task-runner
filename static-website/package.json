@@ -1,0 +1,23 @@
+{
+  "name": "Landing_Page_Task_Runner",
+  "version": "1.0.0",
+  "description": "Task runner to optimize Landing Page development.",
+  "main": "Gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-changed": "*",
+    "gulp-data": "*",
+    "gulp-image": "*",
+    "gulp-notify": "*",
+    "gulp-plumber": "*",
+    "gulp-jade": "*",
+    "gulp-babel": "*",
+    "gulp-stylus": "*",
+    "gulp-include": "*",
+    "nib": "*",
+    "babel-preset-es2015": "*"
+  }
+}
