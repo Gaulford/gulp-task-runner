@@ -1,0 +1,22 @@
+{
+  "name": "Newsletter_Task_Runner",
+  "version": "1.0.0",
+  "description": "Task runner to optimize newsletter development.",
+  "main": "Gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-changed": "*",
+    "gulp-data": "*",
+    "gulp-htmlmin": "*",
+    "gulp-image": "*",
+    "gulp-inline-css": "*",
+    "gulp-jade": "*",
+    "gulp-minify-css": "*",
+    "gulp-notify": "*",
+    "gulp-plumber": "^1.0.1",
+    "gulp-stylus": "*"
+  }
+}
